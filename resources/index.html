@@ -1,0 +1,524 @@
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="UTF-8">
+      <title>Typing Test Eng - Learn typing for free!</title>
+      <link rel="stylesheet" href="styles.css">
+
+  <link rel="stylesheet" href="./libs/bootstrap-icons.css"/>
+
+  <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Open+Sans&family=Poppins&family=Roboto&display=swap" rel="stylesheet"> 
+    
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script> -->
+
+  <link rel="stylesheet" type="text/css" href="./libs/bootstrap.css">
+  <script type="text/javascript" src="./libs/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" src="./libs/jquery.min.js"></script>
+
+    <style type="text/css">
+  .bungee-spice{font-family: 'Bungee Spice', cursive;}
+
+  .open-sans{font-family: 'Open Sans', sans-serif;}
+
+  .poppins{font-family: 'Poppins', sans-serif;}
+
+  .roboto{ font-family: 'Roboto', sans-serif;}
+      
+      div#contentSample{
+        height: 50vh;
+        overflow-y: scroll;
+        font-size: 1.3rem;
+      }
+
+      body{
+        overflow: hidden; 
+        /*overflow hidden _ should be used to hide scrollbar when it child is larger than container the scrollbar appair*/
+      }
+
+      .prevent-select {
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
+
+    </style>
+
+    </head>
+
+    <body class="prevent-select">
+     
+
+<div class="modal fade small" id="aboutPage">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="modal-body">
+
+    <div class="card p-4 text-center border-0">
+        <div class="card-body">
+          <img src="./assets/author_photo.png" class="card-img-top-xxx border rounded-circle border-3 shadow" alt="Developer photo" width="64" />
+    <h5 class="card-title mt-1"> Ashutosh Kumar </h5>
+    <h6 class="card-subtitle mb-2 text-muted mt-1 "> A Programmer, Web & App development</h6>
+
+    <p class="card-text text-center p-2 small text-muted">
+      <i>Hi dear,</i> I am Ashutosh Kumar from Madhubani, Bihar. <br /> I am self tought programmer who is querious know new thing every day about web and app development. And continuously Learning and implimenting on my projects.
+    </p>
+
+ <div class="d-flex-inline flex-column mt-2 px-4 mx-3">
+    <a href="#" class="card-link d-inline-block text-decoration-none"> <i class="bi bi-facebook text-primary"></i> Facebook</a>
+
+    <a href="#" class="card-link d-inline-block text-decoration-none"> <i class="bi bi-github text-dark"></i> Github</a>
+
+    <a href="#" class="card-link d-inline-block text-decoration-none"> <i class="bi bi-twitter"></i>  Twitter</a>
+
+    <a href="#" class="card-link d-inline-block text-decoration-none"> <i class="bi bi-youtube text-danger"></i> Youtube</a>
+
+ </div>
+
+  </div>
+
+    </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+  <header class="px-2 m-1">
+      
+    <h1 class="font-weight-bolder p-1"> <span class="bg-primary rounded p-1 me-3 font-weight-bolder text-white" style="width: 5px; height: 5px; transform: scaleX(0.1);">&nbsp;T </span>   Typing Test <b>Eng</b> 
+
+      <span class="float-end f-right mt-1 small">
+
+       <i class="bi bi-person-circle fs-4" style="color: var(--bs-gray-600);" data-bs-toggle="modal" data-bs-target="#aboutPage"> About ME </i> 
+
+       <i class="bi bi-info-circle ms-1 fs-4" style="color: var(--bs-gray-600);"> About </i>  
+      </span> 
+    </h1>
+
+
+
+
+    </header>
+
+
+
+    <div id="outer-wrapper" class="p-4 bg-light rounded">
+
+      <div class="p-2 m-2 rounded-3 " style="background: var(--bs-gray-200);">
+
+        <div class="dropdown btn-group small  h-6">
+    <button class="btn btn-secondary dropdown-toggle small w-25" style="overflow-x: wrap;" type="button" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" id="pSelectionButton">
+      sampleText1
+    </button>
+    <ul class="dropdown-menu">
+      <!-- <li><a class="dropdown-item" href="#">Menu item</a></li>
+      <li><a class="dropdown-item" href="#">Menu item</a></li>
+      <li><a class="dropdown-item" href="#">Menu item</a></li> -->
+    </ul>
+  </div>
+
+  <time class="badge text-dark p-2 px-4 lead fs-5 fst-italic fw-light border float-end border-primary" id="timer"> 0 </time>
+      </div>
+
+      <div id="contentSample" class="p-3 border m-2 rounded-4 border-bottom poppins roboto-x lead fs-4">
+        <!--  //formatted text -->
+      </div>
+
+    <p class="h6 m-3 fw-bold"> Type text: </p>
+
+   <div class="d-flex">
+      <input class="form-control m-1 w-75" type="text" id="inputTyping"/> 
+
+      <button class=" px-2 border rounded btn btn-primary btn-outline-light fw-bold"> <i class="bi bi-arrow-repeat fw-bolder h5" id="resetButton"></i> <!-- &nbsp; --> Reset </button>
+
+    </div>
+
+    </div>
+
+    <!-- Modal -->
+  <div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Progress</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <ul class="list-group" id="status">
+                     
+
+            <li class="list-group-item"> Total Words : </li>
+            <li class="list-group-item"> Typing Correct Words : </li>
+            <li class="list-group-item"> Typing Mistake Words : </li>
+            <li class=" list-group-item"> Accuracy Percentage : </li> 
+            <li class="list-group-item"> Typing Duration : </li>
+          </ul>
+        </div>
+        <!-- <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Save changes</button>
+        </div> -->
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Toast Setting UP -->
+
+<div class="toast-container position-fixed bottom-0 end-0 p-3">
+  <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+    <div class="toast-header">
+      <span class="rounded me-2"></span>
+      <strong class="me-auto">Typing Test <b>Eng</b></strong>
+      <small>Just a sec</small>
+      <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+    </div>
+    <div class="toast-body">
+     Mostly use this app, in maximize resolution. 
+    </div>
+  </div>
+</div>
+
+  <!-- Toast Setting UP -->
+
+
+      <!-- Basic setup for neutralino.js /
+      must be called -->
+      <script src="js/neutralino.js"></script>
+        <!-- Your app's source files -->
+        <script src="js/main.js"></script>
+
+
+  <script>
+
+
+    var sampleText1 = `India is a secular democracy. This means that all religions are equally respected, and every person is free to follow any religion they want. India is the largest democracy in the world. People here have all basic human rights. The national heritage animal of India is an Indian Elephant. The national river of India is the Ganges. The Ganges is the sacred Hindu river, which is so sacred that it is believed to wash the sins of people away. The highest civilian award in India is the Bharat Ratna, which means ‘jewel of India.`;
+/**
+        The most prominent personalities of India who serve with excellency is their field of work with dedication, and hard work earns this award. The Param Vir Chakra is India’s highest military decoration awarded for displaying bravery. The soldiers who have their life online to protect the citizens are the heroes of India. The first prime minister of India was Pandit Jawaharlal Nehru, also called as Pandit Nehru or Chacha Nehru.
+
+       The first President of India was Dr. Rajendra Prasad by the constituent assembly. He was a member of the INC (Indian National Congress), and he was a scholar. Mohandas Karamchand Gandhi, lovingly known as Bapujii or Mahatma Gandhi, is the Father of our Nation. He is the most recognized figure worldwide, best known for his contribution to the independence of the country by non-violence. Rabindranath Tagore won the Nobel Prize in Literature in the year 1913, and he is one of the most eminent personalities in India.
+**/
+        var sampleText2 = "Welcome to free typing test built for you with bottom of my heart. Honesty is the best policy. Who has made this World? Is that the GOD?" + " Let's get started word typing test: " + "ants car meat tree hooks looks books tooks cook loop hold gold picture message knowledge best gold single died king lion wine sword bill hills never ever tever tez google pay lazy fox ice mice lice slice of lemon the end stops here! Have you get fun? Yes No";
+
+
+
+
+  </script>
+
+
+  <script>
+
+    var dropdown = $(".dropdown");
+    var dropdown_button = $(".dropdown button");
+    var dropdown_item = $(".dropdown ul");
+
+    var item_drop = function (data){
+      
+      var d = $.parseHTML(`<li><a class="dropdown-item" href="#">${arguments[0]}</a></li>`); //arrys
+      console.log(d)
+     var e = $(d[0]); //arrays first
+     e.on("click", (e)=>{
+        console.log(e.currentTarget.outerHTML)
+        dropdown_button.text(e.currentTarget.textContent);
+
+         window.location.hash = e.currentTarget.textContent.trim();
+
+         location.reload();
+
+         
+      });
+
+
+
+      dropdown_item.append(e);
+      
+    };
+
+  item_drop("sampleText1");
+  item_drop("sampleText2");
+
+// Neutralino.storage.setData('sampleText',
+//                         JSON.stringify({ 
+//                           currentSampleText : "sampleText1"
+//                         }));
+
+
+
+  const myModal = new bootstrap.Modal('#myModal', {
+    keyboard: false
+  });
+
+
+
+  // const toastTrigger = document.getElementById('liveToastBtn')
+const toastLiveExample = document.getElementById('liveToast');
+ const toast = new bootstrap.Toast(toastLiveExample);
+
+
+   toast.show();
+
+
+// let data =  Neutralino.storage.getData('sampleText').then( function (o) {
+//   console.log(o);
+// } );
+
+
+ texttotype = '';
+
+   var hashString = location.hash;
+console.log(hashString, location)
+    if( hashString == "" ) { // if hash is empyty then run defau;t
+
+      texttotype = sampleText1;
+
+    }else{ //else
+
+    
+   switch( hashString.substring(1) ){
+    case "sampleText1":
+texttotype = sampleText1;
+    break;
+    case "sampleText2":
+texttotype = sampleText2;
+    break;
+    default:
+
+   
+   }
+
+
+    }
+
+    console.log(texttotype)
+
+    var array = texttotype.split(" ").forEach(function (item, index, arr){
+      //console.log(item, index, arr);
+
+      var span = $("<span></span>");
+      span.text(item + " "); // put space to each word
+
+      $("#contentSample").append( span );
+
+    });
+
+     
+     var words = $("#contentSample").children("span");
+     // console.log( words, words.length, words.item, words.size,  words[0])
+
+     var totalWords = words.length; // 69
+
+      // initialize 
+     var TypingCurrentCursor = 0;
+
+     highlightNext();
+
+     
+     var firstLatterEntered = true;
+     var intervalId = undefined;
+
+
+
+    $("#inputTyping").on("keypress", function (e){
+
+      if (firstLatterEntered){
+        intervalId = setInterval(TimerStatus, 1000);
+        firstLatterEntered = !firstLatterEntered;
+      }
+
+        var key = e.key; // abcd..Enter space
+
+        // alert(key)
+
+        switch (key) {
+          case "Enter":
+            
+            break;
+            case " ":
+
+            
+
+            //spacebar
+            console.log( key.length , "space ")
+
+            checkWord();
+
+            TypingCurrentCursor++;
+
+
+            //Value reset
+
+            e.target.value = "";
+
+            highlightNext();
+
+            typingFinishResult();
+
+            break;
+          default:
+            // statements_def
+            break;
+        }
+
+
+
+
+    });
+    
+
+    function checkWord(){
+
+      var typedValue = $("#inputTyping").val();
+
+      var wordFromSpan = $( words[TypingCurrentCursor] ); //need to trim b/c added space right to text
+
+
+      console.log( "("+typedValue,wordFromSpan.text()+")");
+
+        //Even i need to trim typedValue it conatins space
+       if ( wordFromSpan.text().trim() == typedValue.trim() ){ // TODO : Above written 
+
+        
+          wordFromSpan.addClass("text-success text-muted-x");
+
+
+       } else {
+
+          wordFromSpan.addClass("text-danger text-muted-x");
+
+       }
+
+      
+
+       
+
+    } //checkWorld end
+
+
+    function highlightNext(){
+
+       var spanEleToHighlight = $( words[TypingCurrentCursor] );
+
+
+
+       
+
+       if(TypingCurrentCursor ==  0) {
+
+         spanEleToHighlight.addClass("text-decoration-underline");
+
+       }else {
+       // spanEleToHighlight.prev().removeClass("text-decoration-underline");
+
+        spanEleToHighlight.prev().removeClass("text-decoration-underline"); // index 0 when 1
+
+        spanEleToHighlight.addClass("text-decoration-underline");  // index 2 when 1 doubt
+       }
+      
+    }
+
+    function typingFinishResult(){
+         if(totalWords == TypingCurrentCursor ){ // 2 then 2
+          //alert("Result shoud be shown!");
+
+          showTypeCompletationDetails();
+          myModal.show();
+
+
+
+
+          clearInterval(intervalId);
+         }
+    }
+
+    function showTypeCompletationDetails(){
+      //totalWorlds variable is already defined skip it
+
+        var statusli = $("#status").find("li");
+
+        statusli[0].innerHTML += totalWords;
+
+
+      var correctWords = (function (){
+        var cwc = 0;
+        for(var i = 0; i < totalWords;  i++){
+            var spanele = $(words[i]).hasClass("text-success");
+            if ( spanele ) cwc++;
+        }
+        return cwc;
+      }());
+
+      statusli[1].innerHTML += correctWords;
+  statusli[2].innerHTML += (totalWords - correctWords);
+
+  statusli[3].innerHTML += (correctWords / totalWords *100).toFixed(2) + " % ";
+  statusli[4].innerHTML += timer.innerHTML;
+      
+
+    }
+
+    resetButton.onclick = () => {
+      console.log("TypingAgainStarted");
+      window.location.reload();
+    }
+    
+
+    inputTyping.onfocus = function (){
+    //intervalId = setInterval(TimerStatus, 1000);// whenever element lose it 
+    //focus or gain a new instance of setInterval called there fore 
+    // I am getting seconds counting increatement by 2, 3
+    }
+
+    var timeSecond = 0;
+    function TimerStatus(){
+
+      var date = new Date(null);
+      date.setSeconds(timeSecond);
+      var hhmmssFormat = date.toISOString().substring(11+3, 19);//1970-01-01T00:00:59.000Z
+      console.log(hhmmssFormat)
+
+      timer.innerHTML = hhmmssFormat;
+
+      timeSecond++;
+    };
+
+  function mod(){
+    var rand = Math.round( Math.random() * 150 );
+
+    var quiotent = rand > 59; // int ment
+
+  }
+
+  window.onresize = function (e){
+
+    console.log(e, {
+      w_h: window.innerHeight,
+      w_w: window.innerWidth
+    });
+
+
+
+    // if(window.innerWidth <= 790 ) {
+    //   $("body").animate({opacity: 0});
+    // }else{
+    //   $("body").animate({opacity: 1});
+    // }
+
+  }
+  </script>
+<script>
+  window.addEventListener("contextmenu", function (e){
+    console.log(e);
+  })
+</script>
+<!-- write now
+
+innerwidth - 552 is perfect 
+innerHeigt - 800 is perfect -->
+        
+      
+    </body>
+  </html>

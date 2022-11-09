@@ -1,12 +1,17 @@
-# Typing-Test-Eng
-Typing Test Eng - Learn English typing for free! (Simple App)
+# neutralinojs-minimal
 
-Hi guys, I am Ashutosh Kumar. Today I am going to share a app with you all that I have built few days ago. The applicatiion is related to Typing. It's name is **Typing Test Eng**. It is built on neutralinojs framework.
+The default template for a Neutralinojs app. It's possible to use your favorite frontend framework by using [these steps](https://neutralino.js.org/docs/how-to/use-a-frontend-library).
 
-## Neutralinojs
-It is framework for building cross-platform desktop application fro all operating system Window, Linux and MacOs.
-It's application build size is quite small compare to Electornjs, Nwjs framework.
+## Contributors
 
+<a href="https://github.com/neutralinojs/neutralinojs-minimal/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=neutralinojs/neutralinojs-minimal" />
+</a>
 
+## License
 
-[![Typing Test Eng Screenshot](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[MIT](LICENSE)
+
+## Icon credits
+
+- `trayIcon.png` - Made by [Freepik](https://www.freepik.com) and downloaded from [Flaticon](https://www.flaticon.com)

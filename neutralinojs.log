@@ -1,0 +1,445 @@
+INFO 2022-10-07 22:18:13,362 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:39:28,036 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:43:33,541 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:46:41,349 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:50:44,353 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:50:54,701 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:51:35,089 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:52:15,471 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:53:24,686 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:53:45,260 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:53:50,135 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:57:26,546 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 20:57:32,841 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:00:44,968 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:02:58,563 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:17:47,915 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:20:06,837 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:21:57,075 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:22:35,265 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:25:42,797 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:29:12,605 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:29:25,330 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:30:16,264 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:43:05,047 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:43:22,417 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:43:40,326 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:43:43,587 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:43:50,992 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:54:32,160 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 21:58:08,745 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 22:04:08,813 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 22:05:13,615 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 22:07:09,266 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-08 22:10:05,499 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+INFO 2022-10-09 08:49:43,484 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 08:49:47,729 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 08:55:18,636 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 08:55:19,064 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 08:57:07,263 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 08:57:07,968 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 09:01:02,147 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 09:01:02,393 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 09:01:02,407 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 09:05:07,411 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 09:05:07,579 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 09:05:07,580 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 09:14:41,553 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 09:14:41,712 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 09:14:41,713 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 20:53:32,212 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 20:53:37,238 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 20:53:37,282 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 20:57:19,345 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 20:57:19,520 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 20:57:19,520 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 20:57:30,542 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 20:57:30,684 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 20:57:30,684 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 20:57:38,063 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 20:57:38,191 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 20:57:38,192 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 20:58:00,907 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 20:58:01,056 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 20:58:01,058 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:06:12,811 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:06:12,981 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:06:12,982 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:06:45,496 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:06:45,654 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:06:45,655 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:06:48,740 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:06:48,900 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:06:48,901 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:07:09,416 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:07:09,569 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:07:09,569 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:08:17,230 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:08:17,388 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:08:17,388 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:08:21,429 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:08:21,592 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:08:21,593 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:14:57,449 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:14:57,625 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:14:57,625 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:22:29,509 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:22:29,959 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:22:30,007 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:33:23,312 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:33:23,808 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:33:23,809 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:35:23,493 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:35:23,669 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:35:23,670 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:36:10,405 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:36:10,714 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:36:10,716 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:39:07,021 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:39:07,304 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:39:07,306 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:48:00,833 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:48:01,010 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:48:01,010 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:49:36,291 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:49:36,470 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:49:36,471 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:53:42,337 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:53:42,565 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:53:42,566 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:54:35,900 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:54:36,035 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:54:36,035 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:54:42,212 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:54:42,216 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:56:30,135 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:56:30,331 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:56:30,332 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:58:37,470 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:58:37,669 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:58:37,670 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 21:59:32,800 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 21:59:32,954 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 21:59:32,955 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 22:01:02,931 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 22:01:03,092 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:01:03,094 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 22:02:07,862 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 22:02:08,023 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:02:08,024 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 22:02:18,246 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 22:02:18,404 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:02:18,404 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 22:09:39,570 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 22:09:43,179 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:09:43,190 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 22:21:28,096 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 22:21:28,283 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:21:28,284 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 22:23:16,437 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 22:23:16,978 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:23:17,042 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:25:07,044 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:25:07,044 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:25:30,711 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:25:30,711 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 22:28:06,082 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 22:28:09,564 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:28:09,581 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-09 22:34:48,633 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-09 22:34:50,342 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-09 22:34:50,344 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 20:18:07,452 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 20:18:14,534 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 20:18:14,535 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 20:24:07,875 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 20:24:08,068 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 20:24:08,070 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 20:24:23,094 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 20:24:23,223 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 20:24:23,224 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 20:42:53,023 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 20:42:53,170 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 20:42:53,170 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 20:43:18,085 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 20:43:18,253 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 20:43:18,254 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 20:46:30,263 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 20:46:30,416 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 20:46:30,418 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 20:46:43,535 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 20:46:43,685 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 20:46:43,686 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 20:55:12,144 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 20:55:12,144 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:04:15,710 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:04:15,764 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:04:15,827 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:04:15,990 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:04:15,992 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:10:27,396 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:10:27,461 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:10:27,529 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:10:27,610 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:10:27,611 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:11:00,403 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:11:00,458 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:11:00,522 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:11:00,562 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:11:00,562 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:13:26,253 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:13:26,309 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:13:26,375 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:13:26,415 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:13:26,416 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:13:33,137 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:13:34,271 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:13:34,369 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:13:34,784 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:13:34,786 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:17:49,216 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:17:49,269 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:17:49,322 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:17:49,365 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:17:49,365 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:18:27,853 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:18:27,909 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:18:27,971 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:18:28,003 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:18:28,004 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:19:05,733 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:19:05,786 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:19:05,847 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:19:05,884 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:19:05,884 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:19:45,112 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:19:45,171 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:19:45,230 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:19:45,265 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:19:45,265 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:21:14,592 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:21:14,648 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:21:14,706 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:21:14,741 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:21:14,742 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:21:30,453 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:21:30,505 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:21:30,565 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:21:30,598 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:21:30,598 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:21:49,947 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:21:50,185 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:21:50,241 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:21:50,245 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-12 21:26:55,484 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-12 21:26:55,543 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:26:55,605 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:26:55,637 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-12 21:26:55,637 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 18:53:45,122 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 18:53:48,238 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 18:53:49,289 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 18:53:49,300 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 18:57:11,148 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 18:57:11,196 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 18:57:11,278 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 18:57:11,278 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 18:57:11,280 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:17:41,652 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:17:41,709 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:17:41,765 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:17:41,778 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:17:41,779 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:17:58,090 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:17:58,141 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:17:58,207 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:17:58,223 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:17:58,223 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:18:24,344 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:18:24,406 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:18:24,472 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:18:24,512 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:18:24,513 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:19:52,920 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:19:52,981 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:19:53,041 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:19:53,079 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:19:53,081 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:20:32,265 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:20:32,324 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:20:32,396 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:20:32,443 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:20:32,445 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:21:31,543 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:21:31,599 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:21:31,659 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:21:31,666 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:21:31,704 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:22:23,056 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:22:23,113 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:22:23,178 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:22:23,213 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:22:23,214 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:23:26,378 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:23:26,439 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:23:26,548 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:23:26,548 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:38:53,487 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:38:53,769 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:38:53,812 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:38:54,065 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:38:54,069 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:41:22,810 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:41:22,864 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:41:23,198 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:41:23,203 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:41:31,197 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:41:31,263 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:41:31,319 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:41:31,322 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:41:33,581 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:41:33,635 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:41:33,705 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:41:33,707 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:56:43,482 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:56:43,540 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:56:43,573 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:56:43,573 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:57:02,039 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:57:02,108 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:57:02,145 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:57:02,145 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:58:19,152 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:58:19,184 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:58:19,249 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:58:19,293 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:58:19,295 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:58:38,678 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:58:38,738 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:58:38,755 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:58:38,792 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 19:59:26,547 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 19:59:26,605 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:59:26,672 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:59:26,715 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 19:59:26,716 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 20:00:15,864 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 20:00:15,920 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:00:15,983 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:00:16,024 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:00:16,024 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:00:27,599 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:00:27,660 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:00:27,698 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:00:27,699 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 20:01:25,425 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 20:01:25,484 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:01:25,546 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:01:25,589 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:01:25,591 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:01:35,551 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:01:35,597 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:01:35,624 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:01:35,636 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 20:07:09,347 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 20:07:09,409 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:07:09,472 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:07:09,525 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:07:09,527 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 20:08:30,975 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 20:08:31,036 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:08:31,098 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:08:31,133 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:08:31,134 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:10:04,024 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:10:04,089 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:10:04,124 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:10:04,129 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:10:06,810 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:10:06,876 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:10:06,913 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:10:06,914 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 20:11:10,618 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 20:11:10,679 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:10,739 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:10,773 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:10,775 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:14,490 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:14,559 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:14,599 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:14,600 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:18,924 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:18,997 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:19,034 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:19,037 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:11:30,103 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 20:13:05,306 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 20:13:05,365 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:13:05,437 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:13:05,441 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:13:05,443 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:13:22,844 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:13:22,916 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:13:23,035 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:13:23,036 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:13:25,417 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:13:25,481 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:13:25,554 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:13:25,554 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:17:12,491 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:17:12,548 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:17:12,712 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:17:12,721 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:18:31,204 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:18:31,275 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:18:31,319 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:18:31,319 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:18:39,114 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:18:39,224 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:18:39,225 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:26:05,840 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:26:05,905 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:26:05,924 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:26:18,332 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:26:18,397 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:26:18,443 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:26:18,443 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:27:03,241 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:27:03,311 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:27:03,358 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:27:03,363 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:27:24,827 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:27:24,897 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:27:24,938 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:27:24,942 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:32:44,293 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:32:47,339 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:32:51,135 Unable to open ./resources/... api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 20:37:53,266 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 20:37:53,534 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:37:53,535 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:38:35,347 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:38:35,347 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-15 20:39:56,904 Reloading the application... api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-15 20:39:57,050 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-15 20:39:57,051 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-16 10:04:20,357 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-16 10:04:27,609 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-16 10:04:27,666 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-16 10:09:07,292 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-16 10:09:07,293 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-10-21 10:27:43,513 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:14 mint@unknown-host
+ERROR 2022-10-21 10:27:48,182 Unable to open ./resources/libs/bootstrap.css.map api/debug/debug.cpp:16 mint@unknown-host
+ERROR 2022-10-21 10:27:48,313 Unable to open ./resources/libs/bootstrap.bundle.min.js.map api/debug/debug.cpp:16 mint@unknown-host
+INFO 2022-11-02 05:06:17,037 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 ashu4@LAPTOP-INUI32MS
+ERROR 2022-11-02 05:06:30,177 Unable to open ./resources/favicon.ico api\debug\debug.cpp:16 ashu4@LAPTOP-INUI32MS
+INFO 2022-11-02 05:07:49,586 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 ashu4@LAPTOP-INUI32MS
+ERROR 2022-11-02 05:07:52,786 Unable to open ./resources/favicon.ico api\debug\debug.cpp:16 ashu4@LAPTOP-INUI32MS
+INFO 2022-11-02 05:26:11,364 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 ashu4@LAPTOP-INUI32MS
+ERROR 2022-11-02 05:26:25,041 Unable to open ./resources/favicon.ico api\debug\debug.cpp:16 ashu4@LAPTOP-INUI32MS
+INFO 2022-11-02 05:47:06,773 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 ashu4@LAPTOP-INUI32MS
+ERROR 2022-11-02 05:47:16,892 Unable to open ./resources/favicon.ico api\debug\debug.cpp:16 ashu4@LAPTOP-INUI32MS
+INFO 2022-11-02 05:55:54,944 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 ashu4@LAPTOP-INUI32MS
+ERROR 2022-11-02 05:56:07,823 Unable to open ./resources/favicon.ico api\debug\debug.cpp:16 ashu4@LAPTOP-INUI32MS
+INFO 2022-11-09 05:49:55,442 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 ashu4@LAPTOP-INUI32MS
+ERROR 2022-11-09 05:50:37,042 Unable to open ./resources/favicon.ico api\debug\debug.cpp:16 ashu4@LAPTOP-INUI32MS
