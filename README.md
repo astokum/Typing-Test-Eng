@@ -9,13 +9,13 @@ It is framework for building cross-platform desktop application fro all operatin
 It's application build size is quite small compare to Electornjs, Nwjs framework.
 
 ### Screenshot :- 
-![Typing Test Eng - test you typing skills](https://github.com/behindicode/Typing-Test-Eng/blob/main/screenshot/Typing%20Test%20Eng%20%201%20.png)
+![Typing Test Eng - test you typing skills](https://astokum.github.com/Typing-Test-Eng/screenshot/Typing%20Test%20Eng%20%201%20.png)
   
   
-![Typing Test Eng - Maximize View](https://github.com/behindicode/Typing-Test-Eng/blob/main/screenshot/Typing%20Test%20Eng%202%20Typed.png)
+![Typing Test Eng - Maximize View](https://astokum.github.com/Typing-Test-Eng/screenshot/Typing%20Test%20Eng%202%20Typed.png)
   
   
-![Typing Test Eng - About Me Developer Details](https://github.com/behindicode/Typing-Test-Eng/blob/main/screenshot/Typing%20Test%20Eng%20-%203%20About%20Me.png?raw=true)
+![Typing Test Eng - About Me Developer Details](https://astokum.github.com/Typing-Test-Eng/screenshot/Typing%20Test%20Eng%20-%203%20About%20Me.png?raw=true)
   
   
 >> ### Youtube Video
