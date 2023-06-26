@@ -2,8 +2,12 @@
 Typing Test Eng - Learn English typing for free! (Simple App)
 
 
+[![](https://img.shields.io/badge/Neutralino_js-yellow?style=for-the-badge)]([https://neutralino.js.org/])
+
+   
 [Live Demo - ](https://astokum.github.io/Typing-Test-Eng/)
-I just hosted as GitHub page. Just for live Demo. Might not be responsive.
+I just hosted this repository as GitHub page. Just for live Demo, I didn't have think for web browser. Might not be responsive in mobile device. : Needs ⌨️ keyboard to perform typing test.
+**it will only work in PC browser**
   
 Hi guys, I am Ashutosh Kumar. Today I am going to share a app with you all that I have built few days ago. The applicatiion is related to Typing. It's name is **Typing Test Eng**. It is built on neutralinojs framework.
   
@@ -55,5 +59,6 @@ Here I'm preparing a list that i have to follow and make this application as far
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dkuxp0aHrgg/0.jpg)](http://www.youtube.com/watch?v=dkuxp0aHrgg)
   
   
-    
+:+1 
+
 Thanks for your 💕 ...
