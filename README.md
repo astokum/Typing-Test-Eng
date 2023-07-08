@@ -23,11 +23,11 @@ Here I'm preparing a list that i have to follow and make this application as far
 
 **I have to do ?**
 
-- [ ] URL Reloading
-- [ ] Resume Pause Support
+- [ ] URL Reloading each time when new snippet is selected 
+- [ ] Need to add Resume Pause Support
 - [ ] UI design should match Windows OS
 - [ ] Making it Fully Wep App
-- [ ] Publish .exe installer
+- [ ] Publish .exe installer so user can use this app easily 
 - [ ] more ...
 
   
