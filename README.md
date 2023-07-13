@@ -59,6 +59,4 @@ Here I'm preparing a list that i have to follow and make this application as far
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dkuxp0aHrgg/0.jpg)](http://www.youtube.com/watch?v=dkuxp0aHrgg)
   
   
-:+1 
-
-Thanks for your 💕 ...
+Give a ⭐ if you liked this!
